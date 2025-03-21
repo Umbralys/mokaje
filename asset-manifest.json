@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mokaje/static/css/main.d4e89132.css",
+    "main.js": "/mokaje/static/js/main.0c4dd399.js",
+    "static/js/453.4e2dd320.chunk.js": "/mokaje/static/js/453.4e2dd320.chunk.js",
+    "index.html": "/mokaje/index.html",
+    "main.d4e89132.css.map": "/mokaje/static/css/main.d4e89132.css.map",
+    "main.0c4dd399.js.map": "/mokaje/static/js/main.0c4dd399.js.map",
+    "453.4e2dd320.chunk.js.map": "/mokaje/static/js/453.4e2dd320.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4e89132.css",
+    "static/js/main.0c4dd399.js"
+  ]
+}
