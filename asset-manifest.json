@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mokaje/static/css/main.42da0160.css",
-    "main.js": "/mokaje/static/js/main.191b2675.js",
+    "main.css": "/mokaje/static/css/main.77f98854.css",
+    "main.js": "/mokaje/static/js/main.eada7864.js",
     "static/js/453.4e2dd320.chunk.js": "/mokaje/static/js/453.4e2dd320.chunk.js",
     "static/media/hero-image.jpg": "/mokaje/static/media/hero-image.ab131efe890206d9930e.jpg",
     "static/media/mokaje-logo.png": "/mokaje/static/media/mokaje-logo.c35a6eb8924fbb8bd896.png",
     "index.html": "/mokaje/index.html",
-    "main.42da0160.css.map": "/mokaje/static/css/main.42da0160.css.map",
-    "main.191b2675.js.map": "/mokaje/static/js/main.191b2675.js.map",
+    "main.77f98854.css.map": "/mokaje/static/css/main.77f98854.css.map",
+    "main.eada7864.js.map": "/mokaje/static/js/main.eada7864.js.map",
     "453.4e2dd320.chunk.js.map": "/mokaje/static/js/453.4e2dd320.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42da0160.css",
-    "static/js/main.191b2675.js"
+    "static/css/main.77f98854.css",
+    "static/js/main.eada7864.js"
   ]
 }
